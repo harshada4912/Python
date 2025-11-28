@@ -75,6 +75,29 @@ fruits.append("orange")
 print(fruits)
 ```
 
+## 📚 6. Dictionaries
+
+- Dictionaries store data in key–value pairs.
+- Mutable
+- Unordered (but maintains insertion order in modern Python)
+- Created using curly braces {}
+
+Example
+
+```
+student = {
+"name": "Alice",
+"age": 20,
+"course": "Python"
+}
+
+
+print(student["name"]) # Access value
+student["age"] = 21 # Update value
+student["grade"] = "A" # Add new key
+print(student)
+```
+
 ----
 ## 📝 Practice Exercises
 
