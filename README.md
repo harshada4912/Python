@@ -1,7 +1,5 @@
 # Python Basics
 
-
-
 A beginner-friendly guide covering core Python concepts including **strings**, **for loops**, **if/else**, **tuples**, and **lists**.
 
 ---
